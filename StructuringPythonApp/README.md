@@ -1,8 +1,8 @@
-##Structuring a Python Application
+# Structuring a Python Application
 
 From: https://realpython.com/lessons/structuring-python-application/
 
-### Example 1
+## Example 1
 Virtual env: _python3 -m venv env_ <br>
 Activate virtual env:  _source env/bin/activate_
 
